@@ -1,0 +1,26 @@
+.title {}
+
+.list-item-label {
+    font-weight: bold;
+}
+
+.interesting-facts {
+    font-style: italic;
+}
+
+.list {
+    list-style: none
+}
+
+.main {
+    width: 300px;
+    border: 1px solid;
+    border-color: lightgray;
+    box-shadow: 10px 10px 5px lightgray;
+    padding: 10px;
+}
+
+.information {
+    border: 1px solid lightgray;
+    padding: 10px;
+}
